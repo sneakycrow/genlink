@@ -1,0 +1,8 @@
+[package]
+name = "genlink"
+version = "0.1.0"
+authors = ["Zachary Sohovich <zachsohovich@thebriga.de>"]
+edition = "2018"
+
+[dependencies]
+notify = "4.0.12"
